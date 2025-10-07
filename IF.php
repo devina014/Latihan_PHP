@@ -32,14 +32,6 @@ if ($umur >= 18) {
 ?>
 <br>
 <?php
-$nama="vina";
-if ($nama=="devina")
-echo "Selamat Datang vina";
-else
-echo "Selamat Datang di Politeknik Negeri Jember";
-?>
-<br>
-<?php
 $nilai = 98;
 
 if ($nilai >= 75)
